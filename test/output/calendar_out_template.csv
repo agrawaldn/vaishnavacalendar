@@ -1,0 +1,5 @@
+"Subject","Start Date","Start Time","End Date","End Time","All day event","Reminder on/off","Reminder Date","Reminder Time","Meeting Organizer","Required Attendees","Optional Attendees","Meeting Resources","Billing Information","Categories","Description","Location","Mileage","Priority","Private","Sensitivity","Show time as"
+"This is test appointment","1/16/2013","11:00:00 AM","1/16/2013","1:00:00 PM","False","False","1/16/2013","10:00:00 AM",,,,,,,"This is a timed appointment with a reminder of 1 hour.
+","Mumbai",,"Normal","False","Normal","2"
+"Test all day event","1/22/2013","12:00:00 AM","1/23/2013","12:00:00 AM","True","False","1/21/2013","6:00:00 AM",,,,,,,"This is test all day event.
+","Mumbai",,"Normal","False","Normal","3"
